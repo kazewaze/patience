@@ -1,6 +1,5 @@
 backend:
   name: patience
-  name: github
   repo: kayceeingram/patience
   site_id: elegant-haibt-232e03
 
