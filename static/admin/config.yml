@@ -2,7 +2,7 @@ backend:
   name: patience
   name: github
   repo: kayceeingram/patience
-  site_id: elegant-haibt-232e03
+  site_id: "elegant-haibt-232e03"
 
 media_folder: static/assets
 public_folder: assets
