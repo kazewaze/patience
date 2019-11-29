@@ -1,5 +1,7 @@
 backend:
-  name: test-repo
+  name: patience
+  name: github
+  repo: kayceeingram/patience
 
 media_folder: static/assets
 public_folder: assets
